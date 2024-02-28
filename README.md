@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan@dhgassoc
-- 👀 I’m interested in Quasar,CfWheels,Vue 3,coldfusion, javascript, jQuery
-- 🌱 I’m currently learning Quasar,CfWheels,Vue 3
+- 👀 I’m interested in CfWheels,Vhtmx, coldfusion, javascript, jQuery, bootstrap
+- 🌱 I’m currently learning Htmx,CfWheels
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
